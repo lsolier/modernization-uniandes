@@ -1,5 +1,3 @@
-# MISW4101-202111-Grupo47
-Repositorio MISW4101-202111-Grupo47
+# Grupo 28
+Repositorio del proyecto legado a modernizar.
 
-## Reports
-[GitInspector](https://misw-4101-practicas.github.io/MISW4101-202111-Grupo47/reports)
